@@ -31,9 +31,9 @@ button {
 
 .container {
     background:#FFF1FA;
-    max-width:80%
+    max-width:80%;
     margin:40px;
-    padding:10px
+    padding:10px;
     border-radius:10px;
     border:3px #E0115F;
     
@@ -46,4 +46,3 @@ button {
 #save-btn {
     background: #e4717a;
 }
-
